@@ -1,0 +1,15 @@
+Network cred
+artifact Id to Test Plan
+Dynamic values.
+Input- not expecting from user
+
+CTP Input:
+
+What is the input? Type of Input? How Long?
+Data Types to be used?
+
+Frequency of the inputs? -> To use Singleton ?
+
+UI? or Just an API call?
+
+Authentication -> ? Simple or Cerner credentials?
