@@ -17,6 +17,7 @@ import com.java4s.CTP_Input;
 import com.sun.jersey.spi.resource.Singleton;
 
 /****** NOTE : Check the Others folder in this project to understand how the call is made********/
+
 @Path("/customers")
 public class HelloWorldService {
 	static HashMap<String, String> inputDS = new HashMap<String, String>();
